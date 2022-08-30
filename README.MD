@@ -5,7 +5,7 @@ Website: https://github.com/Site-Hub/gutenberg-theme
 
 About
 =
-Site Hub development with Gutenberg support.
+My personal development theme with Gutenberg support.
 
 Basic Features
 =
