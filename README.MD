@@ -1,8 +1,6 @@
 Gutenberg Theme
 ===
 
-Website: https://github.com/Site-Hub/gutenberg-theme
-
 About
 =
 My personal development theme with Gutenberg support.
